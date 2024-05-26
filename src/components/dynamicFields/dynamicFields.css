@@ -1,0 +1,19 @@
+button{
+    font-size: 22px !important;
+    font-weight: bolder !important;
+    border-radius: 6px !important;
+}
+
+input{
+    padding: 6px 7px;
+    border-radius: 6px;
+    border: 1px solid black !important;
+}
+
+.inputWidth{
+    width: 25%;
+}
+
+.marksWidth{
+    width: 15%;
+}
